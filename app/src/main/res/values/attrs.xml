@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_api">https://training.loicortola.com/chat-rest/2.0</string>
+</resources>

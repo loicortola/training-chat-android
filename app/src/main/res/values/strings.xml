@@ -2,6 +2,6 @@
     <string name="app_name">training-chat-android</string>
     <string name="username">Username</string>
     <string name="password">Password</string>
-    <string name="login">Login</string>
+    <string name="reset">Reset</string>
     <string name="hello_world">Welcome %1$s ! What\'s up?</string>
 </resources>

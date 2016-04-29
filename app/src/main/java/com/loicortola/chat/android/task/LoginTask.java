@@ -1,6 +1,10 @@
-package com.loicortola.chat.android;
+package com.loicortola.chat.android.task;
 
 import android.os.AsyncTask;
+
+import com.loicortola.chat.android.listener.AsyncTaskController;
+import com.loicortola.chat.android.service.ChatAPIService;
+import com.loicortola.chat.android.ChatApplication;
 
 /**
  * Created by loic on 29/04/2016.

@@ -2,6 +2,8 @@ package com.loicortola.chat.android;
 
 import android.app.Application;
 
+import com.loicortola.chat.android.service.ChatAPIService;
+
 /**
  * Created by loic on 29/04/2016.
  */

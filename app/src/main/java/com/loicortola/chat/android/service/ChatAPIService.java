@@ -1,8 +1,10 @@
-package com.loicortola.chat.android;
+package com.loicortola.chat.android.service;
 
 import android.content.Context;
 import android.util.Log;
 
+
+import com.loicortola.chat.android.R;
 
 import java.io.IOException;
 

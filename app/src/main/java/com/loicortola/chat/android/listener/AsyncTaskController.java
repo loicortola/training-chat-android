@@ -1,4 +1,4 @@
-package com.loicortola.chat.android;
+package com.loicortola.chat.android.listener;
 
 /**
  * Created by loic on 29/04/2016.

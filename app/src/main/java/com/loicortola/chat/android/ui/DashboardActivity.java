@@ -1,4 +1,4 @@
-package com.loicortola.chat.android;
+package com.loicortola.chat.android.ui;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -10,6 +10,8 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.loicortola.chat.android.R;
 
 
 public class DashboardActivity extends AppCompatActivity {
